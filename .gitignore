@@ -1,0 +1,18 @@
+# IntelliJ IDE Files
+.idea
+.iml
+
+# VS Code IDE Files
+.git
+.vscode
+.history
+.settings
+
+# OS Files
+_MACOSX
+.DS_Store
+
+# Other
+*.pyc
+
+
