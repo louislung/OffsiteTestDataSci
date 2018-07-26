@@ -24,3 +24,8 @@ Install necessary packages
     
     source activate offsitetest_py275
     pip install -r requirements.txt
+
+Question & Answer
+-----------------
+
+Answers are inside subfolder Q1, Q2 & Q3a respectively
