@@ -14,7 +14,6 @@ Run the following command
 
 The script will perform the following in order
 1. Connect to postgreSQL database which set up on AWS
-2. Drop table piwik_track if exists
-3. Create table piwik_track if not exists
-4. Insert data from data/piwik_track.csv into table created in step 3
-5. Run sql to get the answer
+2. Run sql to get the answer
+
+Note the answer is based on data/piwik_track.csv (All data inside is already inserted into DB before by the same script)
